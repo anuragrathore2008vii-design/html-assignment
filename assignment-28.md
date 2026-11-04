@@ -95,8 +95,8 @@ fix-overflow.html
                     </tr>
                     <tr>
                         <td>1</td>
-                        <td>Anushka</td>
-                        <td>misanushkaaa@gmail.com</td>
+                        <td>Anurag</td>
+                        <td>anuragrathore2008vii@gmail.com</td>
                         <td>Bareilly</td>
                         <td>BCA-AI</td>
                         <td>2026</td>
